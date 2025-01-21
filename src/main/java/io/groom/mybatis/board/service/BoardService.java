@@ -1,7 +1,7 @@
-package io.groom.mybatis.service;
+package io.groom.mybatis.board.service;
 
-import io.groom.mybatis.mapper.BoardMapper;
-import io.groom.mybatis.model.Board;
+import io.groom.mybatis.board.mapper.BoardMapper;
+import io.groom.mybatis.board.model.Board;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

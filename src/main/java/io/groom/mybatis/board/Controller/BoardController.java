@@ -1,7 +1,7 @@
-package io.groom.mybatis.Controller;
+package io.groom.mybatis.board.Controller;
 
-import io.groom.mybatis.model.Board;
-import io.groom.mybatis.service.BoardService;
+import io.groom.mybatis.board.model.Board;
+import io.groom.mybatis.board.service.BoardService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

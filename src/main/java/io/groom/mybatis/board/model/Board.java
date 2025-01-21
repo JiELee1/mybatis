@@ -1,4 +1,4 @@
-package io.groom.mybatis.model;
+package io.groom.mybatis.board.model;
 
 import lombok.Data;
 

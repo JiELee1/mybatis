@@ -1,6 +1,6 @@
-package io.groom.mybatis.mapper;
+package io.groom.mybatis.board.mapper;
 
-import io.groom.mybatis.model.Board;
+import io.groom.mybatis.board.model.Board;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 
